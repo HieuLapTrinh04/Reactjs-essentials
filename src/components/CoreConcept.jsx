@@ -8,6 +8,7 @@
 //   );
 // }
 function CoreConcept({ image, title, description }) {
+  // co the viet function thanh const ... = () => {}
   return (
     <li>
       <img src={image} alt={title} />
