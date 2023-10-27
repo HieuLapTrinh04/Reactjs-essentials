@@ -4,6 +4,7 @@ const reactDescriptions = ["Fundamental", "Crucial", "Core"];
 
 function genRandomInt(max) {
   return Math.floor(Math.random() * (max + 1));
+  // ham Math.random() random so tu 0 den 1
 }
 
 function Header() {
